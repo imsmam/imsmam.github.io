@@ -9,7 +9,7 @@ author_profile: true
 
 **Mubarak A. Mujawar**  
 Embry-Riddle Aeronautical University  
-Email: your-email@erau.edu
+Email: mujawarm @erau.edu
 
 ### Professional Links
 - Google Scholar
