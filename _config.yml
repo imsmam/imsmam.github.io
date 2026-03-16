@@ -11,23 +11,29 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Mubarak A. Mujawar"
-  avatar : "/assets/img/profile.jpg"
+  name: "Mubarak A. Mujawar"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Researcher in plasma physics, atmospheric-pressure plasma processing, nanomaterials, sensors, and advanced manufacturing."
+
+  location: "Daytona Beach, Florida"
+
+  employer: "Embry-Riddle Aeronautical University"
   position: "Assistant Professor / Researcher"
   department: "Department of Physical Sciences"
-  employer: "Embry-Riddle Aeronautical University"
-  location: "Daytona Beach, Florida"
-  email  : "mujawarm@erau.edu"
+
+  email: "your-email@erau.edu"
+
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=8nW_rLgAAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/mubarak-mujawar"
+      url: "https://scholar.google.com/"
     - label: "Scite"
       icon: "fas fa-book"
       url: "https://scite.ai/users/mujawar-jrkVz"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/"
+
 
 defaults:
   - scope:
