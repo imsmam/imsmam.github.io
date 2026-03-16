@@ -1,1 +1,1 @@
-# Dr. Mubarak A Mujawar
+# Dr. Mubarak Mujawar
