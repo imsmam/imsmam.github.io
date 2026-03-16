@@ -15,9 +15,11 @@ author:
   avatar: "/assets/img/profile.jpg"
   bio: "Assistant Professor of Engineering Physics"
 
-  location: "Daytona Beach, FL"
-
   links:
+    - label: "Department of Physical Scinces"
+      icon: "fas fa-university"
+      url: "https://erau.edu"
+    
     - label: "Embry-Riddle Aeronautical University"
       icon: "fas fa-university"
       url: "https://erau.edu"
