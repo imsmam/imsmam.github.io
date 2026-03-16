@@ -1,8 +1,43 @@
 title: Mubarak A. Mujawar
-description: Plasma Physics | Atmospheric Pressure Plasma | Nanomaterials | Sensors | Additive Manufacturing
+name: Mubarak A. Mujawar
+description: Plasma Physics | Atmospheric-Pressure Plasma | Nanomaterials | Sensors | Additive Manufacturing
+url: "https://YOURUSERNAME.github.io"
+baseurl: ""
 
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 
-logo: /assets/img/profile.jpg
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
 
-show_downloads: false
+author:
+  name   : "Mubarak A. Mujawar"
+  avatar : "/assets/img/profile.jpg"
+  bio    : "Researcher in plasma physics, nanomaterials, sensors, and advanced manufacturing."
+  location: "Daytona Beach, Florida"
+  email  : "your-email@erau.edu"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
+    - label: "Scite"
+      icon: "fas fa-book"
+      url: "https://scite.ai/users/mujawar-jrkVz"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+header_pages:
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
+  - contact.md
