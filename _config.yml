@@ -13,7 +13,8 @@ plugins:
 author:
   name   : "Mubarak A. Mujawar"
   avatar : "/assets/img/profile.jpg"
-  bio    : "Assistant Professor of Engineering Phsyics, Research Areas: plasma physics, nanomaterials, sensors, and advanced manufacturing."
+  bio    : "Assistant Professor of Engineering Phsyics
+  bio    : "Research Areas: plasma physics, nanomaterials, sensors, and advanced manufacturing"
   location: "Embry-Riddle Aeronautical University, Daytona Beach, Florida"
   email  : "mujawarm@erau.edu"
   links:
